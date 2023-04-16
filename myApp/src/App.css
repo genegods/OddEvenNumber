@@ -1,0 +1,13 @@
+
+/* body{
+  background-color: white;   
+} */
+body{
+  background-color: #adabab;   
+  /* background-color: white;    */
+} 
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
